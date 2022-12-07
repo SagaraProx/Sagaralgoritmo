@@ -1,5 +1,5 @@
 # Sagaralgoritmo
-para tarea del algoritmo
+Proyecto del ALgoritmos
 Brandon Calva Santiago
 JUEGO UNO
 Ingenieria en software
